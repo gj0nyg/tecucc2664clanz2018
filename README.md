@@ -68,7 +68,8 @@ CONTAINER ID        IMAGE               COMMAND               CREATED           
 ```
 
 To continously monitor the log created by the bot execute the `docker logs demobot -f` command:
-```$ docker logs demobot -f
+```
+$ docker logs demobot -f
 Spark Bot Email: demobot_jkrohn@sparkbot.io
 Spark Token: REDACTED
 Found existing webhook.  Updating it.
